@@ -167,3 +167,7 @@ https://github.com/sireeshachavana/Smart-Android-Based-Surveillance-Robot-with-R
 ![Image](https://github.com/user-attachments/assets/5228f737-4c74-4c8e-a70f-bb5b4a622ebd)
 
 ![Image](https://github.com/user-attachments/assets/22d7a2e2-6efc-4407-b92c-ec4602dedfd4)
+
+# Motor Pumping Water when Flame is Sensed
+
+![Image](https://github.com/user-attachments/assets/df03d692-b99f-44fe-9753-247a828f2349)
